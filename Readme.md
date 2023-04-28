@@ -16,9 +16,9 @@ Once the mod files are in the mod folder, launch Victoria 3 and enable the Charc
 
 Once the mod is installed and enabled, you can start using the Charcoal Plant building in your game. The building can be constructed like any other industrial building and requires a certain amount of wood to produce charcoal.
 
-To construct the Charcoal Plant, simply select the building from the construction menu and place it in a suitable location. Once constructed, the building will start producing charcoal automatically, as long as you have enough wood in your inventory.
+To construct the Charcoal Plant, simply select the building from the cities construction menu. Once constructed, the building will start producing charcoal automatically, as long as you have enough wood.
 
-## Porudction Tables
+## Production Tables
 
 | Production Method      | Resources Input        | Resources Output | Workers          | Unlocking               | 
 |------------------------|------------------------|------------------|------------------|-------------------------|
