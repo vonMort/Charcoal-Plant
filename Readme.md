@@ -59,3 +59,5 @@ The Charcoal Plant mod is released under the MIT License. See the LICENSE file f
 ## Credits
 
 The Charcoal Plant mod was created by vonMort and is maintained by vonMort and Annehilator. We would like to thank Paradox Interactive for such a nice game and always designing their games open for modders.
+
+<a href='https://ko-fi.com/O4O5KT0QC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
