@@ -1,0 +1,30 @@
+﻿l_spanish:
+building_charcoal_burner:0 "Carbonería"
+building_charocal_burner_option:0 "ampliar $building_charcoal_burner$"
+
+pmg_base_building_charcoal_burner:0 "Base"
+pm_charcoal_kiln_building_charcoal_burner:0 "Horno de carbón"
+pm_combustion_chamber_building_charcoal_burner:0 "Cámara de combustión"
+pm_machine_coal_building_charcoal_burner:0 "Carbón para maquinaria"
+
+pmg_refining_building_charcoal_burner:0 "Refinamiento"
+pm_refining_disabled_building_charcoal_burner:0 "Refinamiento desactivado"
+pm_dust_separation_building_charcoal_burner:0 "Separación de polvo"
+pm_chemical_refining_building_charcoal_burner:0 "Refinamiento químico"
+pm_environmental_refining_building_charcoal_burner:0 "Refinamiento ecológico"
+
+pmg_automation_building_charcoal_burner:0 "Automatización"
+pm_automation_hand_assembly_building_charcoal_burner:0 "Carga manual"
+pm_assembly_lines_building_charcoal_burner:0 "Líneas de montaje"
+
+pmg_transportation_building_charcoal_burner:0 "Transporte"
+pm_road_carts_building_charcoal_burner:0 "Carretas para caminos"
+pm_rail_transport_building_charcoal_burner:0 "Transporte por vías"
+pm_rail_bulk_freight_wagon_building_charcoal_burner:0 "Vagones de carga a granel"
+
+pmg_ownership_capital_building_charcoal_burner:0 "Propiedad"
+pm_merchant_guilds_building_charcoal_burner:0 "Gremios de mercaderes"
+pm_privately_owned_building_charcoal_burner:0 "Propiedad privada"
+pm_publicly_traded_building_charcoal_burner:0 "Sociedad cotizada"
+pm_government_run_building_charcoal_burner:0 "Titularidad pública"
+pm_worker_cooperative_building_charcoal_burner:0 "Cooperativa de trabajo"

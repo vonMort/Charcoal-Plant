@@ -1,0 +1,30 @@
+﻿l_braz_por:
+building_charcoal_burner:0 "Queimador de carvão vegetal"
+building_charocal_burner_option:0 "Expandir $building_charcoal_burner$"
+
+pmg_base_building_charcoal_burner:0 "Base"
+pm_charcoal_kiln_building_charcoal_burner:0 "Pilha De Carvão"
+pm_combustion_chamber_building_charcoal_burner:0 "Câmara De Combustão"
+pm_machine_coal_building_charcoal_burner:0 "Carvão A Vapor"
+
+pmg_refining_building_charcoal_burner:0 "Preparação"
+pm_refining_disabled_building_charcoal_burner:0 "Sem Preparação"
+pm_dust_separation_building_charcoal_burner:0 "Separação De Poeiras"
+pm_chemical_refining_building_charcoal_burner:0 "Tratamento Químico"
+pm_environmental_refining_building_charcoal_burner:0 "Preparação Ecológica"
+
+pmg_automation_building_charcoal_burner:0 "Automação"
+pm_automation_hand_assembly_building_charcoal_burner:0 "Carregamento Manual"
+pm_assembly_lines_building_charcoal_burner:0 "Linhas De Montagem"
+
+pmg_transportation_building_charcoal_burner:0 "Transporte"
+pm_road_carts_building_charcoal_burner:0 "Carroças de Estrada"
+pm_rail_transport_building_charcoal_burner:0 "Transporte Ferroviário"
+pm_rail_bulk_freight_wagon_building_charcoal_burner:0 "Vagão De Mercadorias A Granel"
+
+pmg_ownership_capital_building_charcoal_burner:0 "Propriedade"
+pm_merchant_guilds_building_charcoal_burner:0 "Guildas Mercantis"
+pm_privately_owned_building_charcoal_burner:0 "Propriedade Privada"
+pm_publicly_traded_building_charcoal_burner:0 "Capital Aberto"
+pm_government_run_building_charcoal_burner:0 "Administrada pelo Governo"
+pm_worker_cooperative_building_charcoal_burner:0 "Cooperativa de Trabalho"

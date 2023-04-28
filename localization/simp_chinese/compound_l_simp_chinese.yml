@@ -1,0 +1,30 @@
+﻿l_simp_chinese:
+building_charcoal_burner:0 "木炭厂"
+building_charocal_burner_option:0 "扩建$building_charcoal_burner$"
+
+pmg_base_building_charcoal_burner:0 "基础"
+pm_charcoal_kiln_building_charcoal_burner:0 "煤堆"
+pm_combustion_chamber_building_charcoal_burner:0 "燃烧室"
+pm_machine_coal_building_charcoal_burner:0 "机械木炭生产"
+
+pmg_refining_building_charcoal_burner:0 "回收利用"
+pm_refining_disabled_building_charcoal_burner:0 "没有回收"
+pm_dust_separation_building_charcoal_burner:0 "粉尘收集"
+pm_chemical_refining_building_charcoal_burner:0 "化学品回收"
+pm_environmental_refining_building_charcoal_burner:0 "生态循环"
+
+pmg_automation_building_charcoal_burner:0 "自动化"
+pm_automation_hand_assembly_building_charcoal_burner:0 "手动装载"
+pm_assembly_lines_building_charcoal_burner:0 "装配线"
+
+pmg_transportation_building_charcoal_burner:0 "运输"
+pm_road_carts_building_charcoal_burner:0 "手推车"
+pm_rail_transport_building_charcoal_burner:0 "轨道运输"
+pm_rail_bulk_freight_wagon_building_charcoal_burner:0 "Schüttgutwaggons"
+
+pmg_ownership_capital_building_charcoal_burner:0 "所有制"
+pm_merchant_guilds_building_charcoal_burner:0 "商人行会"
+pm_privately_owned_building_charcoal_burner:0 "私人所有"
+pm_publicly_traded_building_charcoal_burner:0 "公开交易"
+pm_government_run_building_charcoal_burner:0 "政府运营"
+pm_worker_cooperative_building_charcoal_burner:0 "劳动合作社"

@@ -1,0 +1,30 @@
+﻿l_russian:
+building_charcoal_burner:0 "Коксование"
+building_charocal_burner_option:0 "Расширить $building_charcoal_burner$"
+
+pmg_base_building_charcoal_burner:0 "Основа"
+pm_charcoal_kiln_building_charcoal_burner:0 "Угольная печь"
+pm_combustion_chamber_building_charcoal_burner:0 "Камера сгорания"
+pm_machine_coal_building_charcoal_burner:0 "Машинный уголь"
+
+pmg_refining_building_charcoal_burner:0 "Переработка"
+pm_refining_disabled_building_charcoal_burner:0 "Отсутствует переработка"
+pm_dust_separation_building_charcoal_burner:0 "Очистка пыли"
+pm_chemical_refining_building_charcoal_burner:0 "Химическая переработка"
+pm_environmental_refining_building_charcoal_burner:0 "Экологическая переработка"
+
+pmg_automation_building_charcoal_burner:0 "Автоматизация"
+pm_automation_hand_assembly_building_charcoal_burner:0 "Ручное заполнение"
+pm_assembly_lines_building_charcoal_burner:0 "Сборочные линии"
+
+pmg_transportation_building_charcoal_burner:0 "Перевозка"
+pm_road_carts_building_charcoal_burner:0 "Повозки"
+pm_rail_transport_building_charcoal_burner:0 "Перевозка по рельсам"
+pm_rail_bulk_freight_wagon_building_charcoal_burner:0 "Вагон для сыпучих грузов"
+
+pmg_ownership_capital_building_charcoal_burner:0 "Собственность"
+pm_merchant_guilds_building_charcoal_burner:0 "Купеческие гильдии"
+pm_privately_owned_building_charcoal_burner:0 "Частная собственность"
+pm_publicly_traded_building_charcoal_burner:0 "Публичная компания"
+pm_government_run_building_charcoal_burner:0 "Государственное управление"
+pm_worker_cooperative_building_charcoal_burner:0 "Производственный кооператив"

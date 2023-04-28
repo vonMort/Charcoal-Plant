@@ -1,0 +1,30 @@
+﻿l_turkish:
+building_charcoal_burner:0 "Kömür Fabrikası"
+building_charocal_burner_option:0 "$building_charcoal_burner$ni Genişlet"
+
+pmg_base_building_charcoal_burner:0 "Temel"
+pm_charcoal_kiln_building_charcoal_burner:0 "Kömür Yığını"
+pm_combustion_chamber_building_charcoal_burner:0 "Yanma Odası"
+pm_machine_coal_building_charcoal_burner:0 "Makine Kömürü"
+
+pmg_refining_building_charcoal_burner:0 "Arıtma"
+pm_refining_disabled_building_charcoal_burner:0 "Arıtma Yok"
+pm_dust_separation_building_charcoal_burner:0 "Toz Toplama"
+pm_chemical_refining_building_charcoal_burner:0 "Kimyasal Hazırlık"
+pm_environmental_refining_building_charcoal_burner:0 "Ekolojik Hazırlık"
+
+pmg_automation_building_charcoal_burner:0 "Otomasyon"
+pm_automation_hand_assembly_building_charcoal_burner:0 "Manuel Yükleme"
+pm_assembly_lines_building_charcoal_burner:0 "Montaj hatları"
+
+pmg_transportation_building_charcoal_burner:0 "Ulaştırma"
+pm_road_carts_building_charcoal_burner:0 "Yük Arabaları"
+pm_rail_transport_building_charcoal_burner:0 "Raylı Ulaştırma"
+pm_rail_bulk_freight_wagon_building_charcoal_burner:0 "Dökme yük vagonları"
+
+pmg_ownership_capital_building_charcoal_burner:0 "Mülkiyet"
+pm_merchant_guilds_building_charcoal_burner:0 "Tüccar Loncaları"
+pm_privately_owned_building_charcoal_burner:0 "Özel Mülk"
+pm_publicly_traded_building_charcoal_burner:0 "Halka Açık"
+pm_government_run_building_charcoal_burner:0 "Kamu İşletmesi"
+pm_worker_cooperative_building_charcoal_burner:0 "İşçi Kooperatifi"

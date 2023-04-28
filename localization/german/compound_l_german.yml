@@ -1,0 +1,30 @@
+﻿l_german:
+building_charcoal_burner:0 "Köhlerei"
+building_charocal_burner_option:0 "erweitert $building_charcoal_burner$"
+
+pmg_base_building_charcoal_burner:0 "Grundwert"
+pm_charcoal_kiln_building_charcoal_burner:0 "Kohlemeiler"
+pm_combustion_chamber_building_charcoal_burner:0 "Verbrennungskammer"
+pm_machine_coal_building_charcoal_burner:0 "Maschinenkohle"
+
+pmg_refining_building_charcoal_burner:0 "Aufbereitung"
+pm_refining_disabled_building_charcoal_burner:0 "Keine Aufbereitung"
+pm_dust_separation_building_charcoal_burner:0 "Staubabscheidung"
+pm_chemical_refining_building_charcoal_burner:0 "Chemische Aufbereitung"
+pm_environmental_refining_building_charcoal_burner:0 "Ökologische Aufbereitung"
+
+pmg_automation_building_charcoal_burner:0 "Automation"
+pm_automation_hand_assembly_building_charcoal_burner:0 "Manuelles Laden"
+pm_assembly_lines_building_charcoal_burner:0 "Fließbänder"
+
+pmg_transportation_building_charcoal_burner:0 "Transport"
+pm_road_carts_building_charcoal_burner:0 "Straßenkarren"
+pm_rail_transport_building_charcoal_burner:0 "Eisenbahntransport"
+pm_rail_bulk_freight_wagon_building_charcoal_burner:0 "Schüttgutwaggons"
+
+pmg_ownership_capital_building_charcoal_burner:0 "Besitz"
+pm_merchant_guilds_building_charcoal_burner:0 "Händlerzünfte"
+pm_privately_owned_building_charcoal_burner:0 "Privatbesitz"
+pm_publicly_traded_building_charcoal_burner:0 "Börsennotiert"
+pm_government_run_building_charcoal_burner:0 "Landesbetrieb"
+pm_worker_cooperative_building_charcoal_burner:0 "Arbeitergenossenschaft"

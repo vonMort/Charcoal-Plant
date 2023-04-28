@@ -1,0 +1,30 @@
+﻿l_polish:
+building_charcoal_burner:0 "Węgidrzewnyel "
+building_charocal_burner_option:0 "Rozbuduj $building_charcoal_burner$"
+
+pmg_base_building_charcoal_burner:0 "Bazowa"
+pm_charcoal_kiln_building_charcoal_burner:0 "Piec do wypalania węgla drzewnego"
+pm_combustion_chamber_building_charcoal_burner:0 "Komora spalania"
+pm_machine_coal_building_charcoal_burner:0 "Węgiel maszynowy"
+
+pmg_refining_building_charcoal_burner:0 "Przetwarzanie"
+pm_refining_disabled_building_charcoal_burner:0 "Przetwarzanie wyłączone"
+pm_dust_separation_building_charcoal_burner:0 "Separacja pyłu"
+pm_chemical_refining_building_charcoal_burner:0 "Przetwarzanie chemiczne"
+pm_environmental_refining_building_charcoal_burner:0 "Przetwarzanie ekologiczne"
+
+pmg_automation_building_charcoal_burner:0 "Automatyzacja"
+pm_automation_hand_assembly_building_charcoal_burner:0 "Ładowanie ręczne"
+pm_assembly_lines_building_charcoal_burner:0 "Linie montażowe"
+
+pmg_transportation_building_charcoal_burner:0 "Transport"
+pm_road_carts_building_charcoal_burner:0 "Wozy"
+pm_rail_transport_building_charcoal_burner:0 "Transport kolejowy"
+pm_rail_bulk_freight_wagon_building_charcoal_burner:0 "Wagonik towarowy na węgiel masowy"
+
+pmg_ownership_capital_building_charcoal_burner:0 "Własność"
+pm_merchant_guilds_building_charcoal_burner:0 "Gildie kupieckie"
+pm_privately_owned_building_charcoal_burner:0 "Własność prywatna"
+pm_publicly_traded_building_charcoal_burner:0 "Podmiot notowany na giełdzie"
+pm_government_run_building_charcoal_burner:0 "Przedsiebiorstwo państwowe"
+pm_worker_cooperative_building_charcoal_burner:0 "Spółdzielnia pracy"

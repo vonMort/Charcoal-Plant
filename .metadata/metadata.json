@@ -1,0 +1,12 @@
+{
+  "name" : "Charcoal Plant",
+  "id" : "",
+  "version" : "1.0",
+  "supported_game_version" : "1.2.7",
+  "short_description" : "Workshop to make Charcoal out of wood.",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}

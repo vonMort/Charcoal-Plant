@@ -1,0 +1,30 @@
+﻿l_japanese:
+building_charcoal_burner:0 "チャコールパイル"
+building_charocal_burner_option:0 "拡張 $building_charcoal_burner$"
+
+pmg_base_building_charcoal_burner:0 "基礎"
+pm_charcoal_kiln_building_charcoal_burner:0 "炭窯"
+pm_combustion_chamber_building_charcoal_burner:0 "燃焼室"
+pm_machine_coal_building_charcoal_burner:0 "機械用炭"
+
+pmg_refining_building_charcoal_burner:0 "加工"
+pm_refining_disabled_building_charcoal_burner:0 "加工不可"
+pm_dust_separation_building_charcoal_burner:0 "集塵"
+pm_chemical_refining_building_charcoal_burner:0 "化学処理"
+pm_environmental_refining_building_charcoal_burner:0 "環境処理"
+
+pmg_automation_building_charcoal_burner:0 "自動化"
+pm_automation_hand_assembly_building_charcoal_burner:0 "手積"
+pm_assembly_lines_building_charcoal_burner:0 "組立ライン"
+
+pmg_transportation_building_charcoal_burner:0 "輸送"
+pm_road_carts_building_charcoal_burner:0 "ロードカート"
+pm_rail_transport_building_charcoal_burner:0 "鉄道輸送"
+pm_rail_bulk_freight_wagon_building_charcoal_burner:0 "バルク品ワゴン"
+
+pmg_ownership_capital_building_charcoal_burner:0 "所有權"
+pm_merchant_guilds_building_charcoal_burner:0 "商人ギルド"
+pm_privately_owned_building_charcoal_burner:0 "個人所有"
+pm_publicly_traded_building_charcoal_burner:0 "公開企業"
+pm_government_run_building_charcoal_burner:0 "国営"
+pm_worker_cooperative_building_charcoal_burner:0 "労働者協同組合"

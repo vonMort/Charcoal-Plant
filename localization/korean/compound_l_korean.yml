@@ -1,0 +1,30 @@
+﻿l_korean:
+building_charcoal_burner:0 "숯 공장"
+building_charocal_burner_option:0 "$building_charcoal_burner$ 확장"
+
+pmg_base_building_charcoal_burner:0 "기본"
+pm_charcoal_kiln_building_charcoal_burner:0 "숯화로 건물"
+pm_combustion_chamber_building_charcoal_burner:0 "연소실 건물"
+pm_machine_coal_building_charcoal_burner:0 "기계용 석탄 건물"
+
+pmg_refining_building_charcoal_burner:0 "정제 건물"
+pm_refining_disabled_building_charcoal_burner:0 "준비 없음"
+pm_dust_separation_building_charcoal_burner:0 "먼지 수집"
+pm_chemical_refining_building_charcoal_burner:0 "화학 물질 재활용"
+pm_environmental_refining_building_charcoal_burner:0 "생태학적 준비"
+
+pmg_automation_building_charcoal_burner:0 "자동화"
+pm_automation_hand_assembly_building_charcoal_burner:0 "수동 채우기"
+pm_assembly_lines_building_charcoal_burner:0 "조립 라인"
+
+pmg_transportation_building_charcoal_burner:0 "이동 수단"
+pm_road_carts_building_charcoal_burner:0 "운반차"
+pm_rail_transport_building_charcoal_burner:0 "철로 운송"
+pm_rail_bulk_freight_wagon_building_charcoal_burner:0 "벌크 화물 마차"
+
+pmg_ownership_capital_building_charcoal_burner:0 "소유권"
+pm_merchant_guilds_building_charcoal_burner:0 "상인 조합"
+pm_privately_owned_building_charcoal_burner:0 "개인 소유"
+pm_publicly_traded_building_charcoal_burner:0 "공개 거래"
+pm_government_run_building_charcoal_burner:0 "정부 운영"
+pm_worker_cooperative_building_charcoal_burner:0 "노동자 협력"
