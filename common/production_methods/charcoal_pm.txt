@@ -6,10 +6,10 @@ pm_charcoal_kiln_building_charcoal_burner = {
 	building_modifiers = {
 		workforce_scaled = {
 			# input goods
-			building_input_wood_add = 30
+			building_input_wood_add = 40
 			
 			# output goods
-			building_output_coal_add = 30
+			building_output_coal_add = 45
 		}
 
 		level_scaled = {
@@ -31,10 +31,10 @@ pm_combustion_chamber_building_charcoal_burner = {
 	building_modifiers = {
 		workforce_scaled = {
 			# input goods
-			building_input_wood_add = 60
+			building_input_wood_add = 80
 			
 			# output goods
-			building_output_coal_add = 90
+			building_output_coal_add = 100
 		}
 
 		level_scaled = {
@@ -55,11 +55,11 @@ pm_machine_coal_building_charcoal_burner = {
 	building_modifiers = {
 		workforce_scaled = {
 			# input goods
-			building_input_wood_add = 90
+			building_input_wood_add = 120
 			building_input_tools_add = 15
 			
 			# output goods
-			building_output_coal_add = 120
+			building_output_coal_add = 165
 		}
 
 		level_scaled = {
@@ -71,7 +71,7 @@ pm_machine_coal_building_charcoal_burner = {
 }
 
 pm_refining_disabled_building_charcoal_burner = {
-	texture = "gfx/interface/icons/production_method_icons/no_hardwood_selection.dds"
+	texture = "gfx/interface/icons/production_method_icons/no_selection.dds"
 }
 
 pm_dust_separation_building_charcoal_burner = {
