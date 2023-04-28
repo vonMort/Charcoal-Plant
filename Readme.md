@@ -23,7 +23,8 @@ To construct the Charcoal Plant, simply select the building from the cities cons
 | Production Method      | Resources Input        | Resources Output | Workers          | Unlocking               | 
 |------------------------|------------------------|------------------|------------------|-------------------------|
 | Charcoal Kiln          | 40 Wood                | 45 Coal          | 5000 Laborers    |                         |
-| Combustion Chamber     | 80 Wood                | 100 Coal         | 4500 Laborers    | Mechanical Tools        |
+| Combustion Chamber     | 80 Wood                | 100 Coal         | 4500 Laborers,   | Mechanical Tools        |
+|                        |                        |                  | 500 Machinists   |                         |
 | Machine Coal           | 120 Wood,              | 145 Coal         | 3500 Laborers,   | Conveyors               |
 |                        | 15 Tools               |                  | 1000 Machinists, |                         |
 |                        |                        |                  | 500 Engineers    |                         |
