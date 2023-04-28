@@ -20,13 +20,13 @@ To construct the Charcoal Plant, simply select the building from the constructio
 
 ## Porudction Tables
 
-| Production Method      | Resources Input        | Resources Output | Workers          | Unlocking        | 
-|------------------------|------------------------|------------------|------------------|------------------|
-| Charcoal Kiln          | 30 Wood                | 15 Coal          | 5000 Laborers    |                  |
-| Combustion Chamber     | 60 Wood                | 45 Coal          | 4500 Laborers    | Mechanical Tools |
-| Machine Coal           | 90 Wood,               | 90 Coal          | 3500 Laborers,   | Conveyors        |
-|                        | 15 Tools               |                  | 1000 Machinists, |                  |
-|                        |                        |                  | 500 Engineers    |                  |
+| Production Method      | Resources Input        | Resources Output | Workers          | Unlocking               | 
+|------------------------|------------------------|------------------|------------------|-------------------------|
+| Charcoal Kiln          | 30 Wood                | 15 Coal          | 5000 Laborers    |                         |
+| Combustion Chamber     | 60 Wood                | 45 Coal          | 4500 Laborers    | Mechanical Tools        |
+| Machine Coal           | 90 Wood,               | 90 Coal          | 3500 Laborers,   | Conveyors               |
+|                        | 15 Tools               |                  | 1000 Machinists, |                         |
+|                        |                        |                  | 500 Engineers    |                         |
     
     
 | Refining Method        | Resources Input        | Resources Output | Workers          | Unlocking               |
@@ -37,15 +37,15 @@ To construct the Charcoal Plant, simply select the building from the constructio
 |                        | -30 Wood               |                  |                  |                         |
 
 
-| Automation Method      | Resources Input        | Resources Output | Workers          | Unlocking |
-|------------------------|------------------------|------------------|------------------|-----------|
-| Assembly Lines         | 10 Oil, 5 Electricity, |                  | -3000 Laborers   | Conveyors |
+| Automation Method      | Resources Input        | Resources Output | Workers          | Unlocking               |
+|------------------------|------------------------|------------------|------------------|-------------------------|
+| Assembly Lines         | 10 Oil, 5 Electricity, |                  | -3000 Laborers   | Conveyors               |
 |                        | -10 Tools         
 
-| Transportation Method  | Resources Input        | Resources Output | Workers          | Unlocking Technologies |
-|------------------------|------------------------|------------------|------------------|----------------------- |
-| Rail Transport         | 5 Transportation       |                  | -1000 Laborers   | Railways               |
-| Bulk Freight Wagon     | 8 Transportation       |                  | -1500 Laborers   | Electric Railways      |
+| Transportation Method  | Resources Input        | Resources Output | Workers          | Unlocking Technologies  |
+|------------------------|------------------------|------------------|------------------|-------------------------|
+| Rail Transport         | 5 Transportation       |                  | -1000 Laborers   | Railways                |
+| Bulk Freight Wagon     | 8 Transportation       |                  | -1500 Laborers   | Electric Railways       |
 
 
 ## Contributing
