@@ -9,7 +9,7 @@ pm_charcoal_kiln_building_charcoal_burner = {
 			building_input_wood_add = 30
 			
 			# output goods
-			building_output_coal_add = 15
+			building_output_coal_add = 30
 		}
 
 		level_scaled = {
@@ -34,7 +34,7 @@ pm_combustion_chamber_building_charcoal_burner = {
 			building_input_wood_add = 60
 			
 			# output goods
-			building_output_coal_add = 45
+			building_output_coal_add = 90
 		}
 
 		level_scaled = {
@@ -59,7 +59,7 @@ pm_machine_coal_building_charcoal_burner = {
 			building_input_tools_add = 15
 			
 			# output goods
-			building_output_coal_add = 90
+			building_output_coal_add = 120
 		}
 
 		level_scaled = {
