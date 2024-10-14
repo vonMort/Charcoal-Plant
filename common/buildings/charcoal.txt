@@ -1,7 +1,15 @@
 building_charcoal_burner = {
+
+	can_build_government = {
+	scope:investor_country = { is_player = yes }
+	}
+	can_build_private = {
+	owner = no
+	}
+
 	building_group = bg_light_industry
 	texture = "gfx/interface/icons/building_icons/charcoal_burner.dds"
-	
+
 	unlocking_technologies = {
 		manufacturies
 	}
@@ -18,6 +26,10 @@ building_charcoal_burner = {
 	}
 
 	required_construction = construction_cost_high
-	
-	ai_value = 500 # Coal is very important but mines should be more important
+
+	ownership_type = self
+
+	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_light_industry.dds"
+
+	# ai_value = 500 # Coal is very important but mines should be more important
 }
